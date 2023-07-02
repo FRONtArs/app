@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  text-align: center; 
+  background-image: url("Leonardo_Diffusion_Family_Generations_Connection_Relationships_1.jpg");
+  background-size: cover;/* Center-align the text */
+}
+
+h1 {
+  font-size: 24px; /* Adjust the size of the text */
+}
+
+h2 {
+  margin-top: 20px;
+  font-size: 20px; /* Adjust the size of the text */
+}
+
+#uploadForm {
+  text-align: center;
+}
+
+#familyTree {
+  margin-top: 50px;
+}
+
+#generatedImage {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;  
+  height: auto;
+}
